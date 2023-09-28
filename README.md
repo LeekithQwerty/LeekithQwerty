@@ -2,6 +2,10 @@
 
 ## About Me
 I'm on a journey to explore the fascinating world of data and code. Currently, I'm pursuing my Master's in Applied Data Science at the University of Southern California.
+I'm a coding enthusiast with a love for data, coffee, and open-source projects. 
+
+🌱 Currently learning: Data science and machine learning
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/likhit-jha)) | [Email](mailto:likhitjha2020@gmail.com)
 
 ## Tech Stack
 - **Languages and Databases:** Python, C++, C#, MATLAB, SQL (PostgreSQL, MySQL), NoSQL (Firebase)
