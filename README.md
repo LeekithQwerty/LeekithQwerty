@@ -27,13 +27,7 @@ I'm on a journey to explore the fascinating world of data and code. Currently, I
 
 - **Anti Chess** (September 2021)
   - Wielded my developer wand to craft an online multiplayer variant of chess using C#, Unity2D, and Firebase, earning the coveted 1st place at the university.
-
-## Club Leadership
-- **Co-Head, Techcider Club** (May 2021 - May 2022)
-  - Led a group of 97 tech enthusiasts, sparking high-energy hackathons, tech fests, and knowledge-packed seminars.
-
-- **Core Member, Techcider Club** (July 2020 - May 2021)
-  - Coordinated thrilling coding competitions and hackathons, making coding cool.
+  - 
 
 ## A Few Extra Spells
 - **Mind Spark Data Visualization Competition:** I'm proud to say I clinched the 1st position.
