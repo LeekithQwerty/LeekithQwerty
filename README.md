@@ -1,19 +1,19 @@
-# Hey there, I'm [Likhit JHa] 👋
+# Hey there, I'm Likhit Jha 👋
 
 ## About Me
-I'm on a journey to explore the fascinating world of data and code. Currently, I'm pursuing my Master's in Applied Data Science at the University of Southern California, following an exciting B.Tech. in Computer Science and Business Systems at NMIMS University.
+I'm on a journey to explore the fascinating world of data and code. Currently, I'm pursuing my Master's in Applied Data Science at the University of Southern California.
 
 ## Tech Stack
 - **Languages and Databases:** Python, C++, C#, MATLAB, SQL (PostgreSQL, MySQL), NoSQL (Firebase)
 - **Data Wizardry:** Time series forecasting, ML models, NLP, you name it!
 - **Favorite Tools:** Jupyter Notebook, Rasa, Unity Engine, and yes, even Excel!
 
-## Worked as a Data Sorcerer at...
-- **Machine Learning Intern** @ Laminaar Aviation Infotech (June 2022 - September 2022)
+## Worked at...
+- **Machine Learning Intern** @ Laminaar Aviation Infotech
   - Unveiled the magic behind forecasting no-shows for standby airline crews.
   - Polished the crystal ball (ARIMA Model) to predict with 6% more accuracy while casting spells to reduce training time by 17%.
 
-- **Machine Learning & AI Intern** @ AUR Consultant (May 2022 - June 2022)
+- **Machine Learning & AI Intern** @ AUR Consultant
   - Crafted a wizard-level chatbot for employee recruitment using Rasa and Python.
   - Conjured a SpaCy NER model with over 2000 resumes, making data extraction and text summarization a breeze!
 
