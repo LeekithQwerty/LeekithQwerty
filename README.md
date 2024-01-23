@@ -12,7 +12,7 @@ I'm a coding enthusiast with a love for data, coffee, and open-source projects.
 - **Data Wizardry:** Time series forecasting, ML models, NLP, you name it!
 - **Favorite Tools:** Jupyter Notebook, Rasa, Unity Engine, and yes, even Excel!
 
-## Worked at...
+## Interned at...
 - **Machine Learning Intern** @ Laminaar Aviation Infotech
   - Unveiled the magic behind forecasting no-shows for standby airline crews.
   - Polished the crystal ball (ARIMA Model) to predict with 6% more accuracy while casting spells to reduce training time by 17%.
